@@ -1,6 +1,6 @@
 {
-    "name": "zap_vortex2",
-    "short_name": "zap_vortex2",
+    "name": "vortex_cross",
+    "short_name": "vortex_cross",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
