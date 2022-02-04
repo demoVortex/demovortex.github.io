@@ -80546,7 +80546,7 @@ case 2:q=b
 s=q.ghM(q).length>0?3:4
 break
 case 3:s=5
-return P.I($.ki().yS("assets/nomenclature.json"),$async$q1)
+return P.I($.ki().yS("assets/nomenclature_new.json"),$async$q1)
 case 5:p=b
 n=$.d7
 n.toString
