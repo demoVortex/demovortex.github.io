@@ -1,6 +1,6 @@
 {
-    "name": "vortex_cross",
-    "short_name": "vortex_cross",
+    "name": "mk_komandirovki",
+    "short_name": "mk_komandirovki",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
