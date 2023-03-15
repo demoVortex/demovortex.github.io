@@ -1,6 +1,6 @@
 {
-    "name": "testov",
-    "short_name": "testov",
+    "name": "tasty_bar",
+    "short_name": "tasty_bar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
